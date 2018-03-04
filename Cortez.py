@@ -16,3 +16,5 @@ for k in res:
     my_file.close()
 cur.close()
 #con.close()
+#con.close()
+#con.close()
